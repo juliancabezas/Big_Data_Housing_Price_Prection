@@ -13,28 +13,31 @@ In order to use this repo:
 2. Add conda forge to your list of channels
 
 In the terminal run:
-
+```
     conda config --add channels conda-forge
-
+```
 3. Create a environment using the requirements.yml file included in this repo, using the following command (inside conda or bash)
 
 In the terminal run:
-
+```
     conda env create -f requirements.yml --name house_regression
-
+```
 4. Activate the conda environment
 
 In the terminal run:
-
+```
     conda activate house_regression
+```
 
 5. Make sure the folder structure of the project is as follows
 
+```
 ├── Intermediate_Results
 ├── Results
 ├── house_price_regression.py
-├── README.md
+├── README.txt
 └── ...
+```
 
 If there are .csv files in the Intermediate_Results the code will read them to avoid the delay of the RFE and Gridsearch and go straigh to fitting the models
 
