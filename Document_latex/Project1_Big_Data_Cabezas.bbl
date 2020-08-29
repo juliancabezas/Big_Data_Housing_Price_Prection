@@ -1,0 +1,89 @@
+\begin{thebibliography}{10}
+
+\bibitem{Bishop2006}
+C.~M. Bishop, {\em {Pattern Recognition and Machine Learning}}.
+\newblock New York, NY, USA: Springer, 2006.
+
+\bibitem{Hastie2009}
+T.~Hastie, R.~Tibshirani, and J.~Friedman, {\em {The Elements of Statistical
+  Learning}}.
+\newblock 2009.
+
+\bibitem{Quinlan1986}
+J.~R. Quinlan, ``{Induction of decision trees},'' {\em Machine Learning},
+  vol.~1, no.~1, pp.~81--106, 1986.
+
+\bibitem{Vapnik1995}
+V.~N. Vapnik, {\em {The Nature of Statistical Learning Theory}}.
+\newblock New York, NY, USA: Springer, 1995.
+
+\bibitem{Ceh2018}
+M.~{\v{C}}eh, M.~Kilibarda, A.~Lisec, and B.~Bajat, ``{Estimating the
+  Performance of Random Forest versus Multiple Regression for Predicting Prices
+  of the Apartments},'' {\em ISPRS International Journal of Geo-Information},
+  vol.~7, no.~5, p.~168, 2018.
+
+\bibitem{DeCock2011}
+D.~{De Cock}, ``{Ames, Iowa: Alternative to the boston housing data as an end
+  of semester regression project},'' {\em Journal of Statistics Education},
+  vol.~19, no.~3, pp.~1--15, 2011.
+
+\bibitem{Installe2014}
+A.~J. Install{\'{e}}, T.~{Van Den Bosch}, B.~{De Moor}, and D.~Timmerman,
+  ``{Clinical data miner: An electronic case report form system with integrated
+  data preprocessing and machine-learning libraries supporting clinical
+  diagnostic model research},'' {\em Journal of Medical Internet Research},
+  vol.~16, no.~10, p.~e28, 2014.
+
+\bibitem{Mittag2015}
+F.~Mittag, M.~R{\"{o}}mer, and A.~Zell, ``{Influence of feature encoding and
+  choice of classifier on disease risk prediction in genome-wide association
+  studies},'' {\em PLoS ONE}, vol.~10, no.~8, pp.~1--18, 2015.
+
+\bibitem{Dettling2003}
+M.~Dettling and P.~B{\"{u}}hlmann, ``{Boosting for tumor classification with
+  gene expression data},'' {\em Bioinformatics}, vol.~19, no.~9,
+  pp.~1061--1069, 2003.
+
+\bibitem{Stevens2015}
+F.~R. Stevens, A.~E. Gaughan, C.~Linard, and A.~J. Tatem, ``{Disaggregating
+  census data for population mapping using Random forests with remotely-sensed
+  and ancillary data},'' {\em PLoS ONE}, vol.~10, no.~2, pp.~1--22, 2015.
+
+\bibitem{Breiman2001b}
+L.~Breiman, ``{Random forests},'' {\em Machine learning}, vol.~45, pp.~5--32,
+  2001.
+
+\bibitem{Friedman2001}
+J.~H. Friedman, ``{Greedy function approximation: A Gradient Boosting
+  Machine},'' {\em Annals of Statistics}, vol.~29, no.~5, pp.~1189--1232, 2001.
+
+\bibitem{Elith2008}
+J.~Elith, J.~R. Leathwick, and T.~Hastie, ``{A working guide to boosted
+  regression trees},'' {\em Journal of Animal Ecology}, vol.~77, no.~4,
+  pp.~802--813, 2008.
+
+\bibitem{Chen2016}
+T.~Chen and C.~Guestrin, ``{XGBoost: A scalable tree boosting system},'' {\em
+  Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery
+  and Data Mining}, vol.~13-17-Augu, pp.~785--794, 2016.
+
+\bibitem{Prokhorenkova2018a}
+L.~Prokhorenkova, G.~Gusev, A.~Vorobev, A.~V. Dorogush, and A.~Gulin,
+  ``{Catboost: Unbiased boosting with categorical features},'' in {\em 32nd
+  Conference on Neural Information Processing Systems (NeurIPS 2018),
+  Montr{\'{e}}al, Canada}, (Montreal, Canada), 2018.
+
+\bibitem{James2013}
+G.~James, D.~Witten, T.~Hastie, and R.~Tibshirani, {\em {An Introduction to
+  Statistical Learning}}.
+\newblock New York, NY, USA: Springer, 2013.
+
+\bibitem{Pedregosa2011}
+F.~Pedregosa, G.~Varoquaux, A.~Gramfort, V.~Michel, B.~Thirion, O.~Grisel,
+  M.~Blondel, P.~Prettenhofer, R.~Weiss, V.~Dubourg, J.~Vanderplas, A.~Passos,
+  D.~Cournapeau, M.~Brucher, M.~Perrot, and E.~Duchesnay, ``{Scikit-learn:
+  Machine Learning in Python},'' {\em Journal of Machine Learning Research},
+  vol.~12, pp.~2825--2830, 2011.
+
+\end{thebibliography}

@@ -1,0 +1,90 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{Ahmad2013}
+Fadzil Ahmad, Nor~Ashidi {Mat Isa}, Zakaria Hussain, and Muhammad~Khusairi
+  Osman.
+\newblock {Intelligent medical disease diagnosis using improved hybrid genetic
+  algorithm - Multilayer perceptron network}.
+\newblock {\em Journal of Medical Systems}, 37(2), 2013.
+
+\bibitem{Bell2014}
+Jason Bell.
+\newblock {\em {Machine Learning : Hands-On for Developers and Technical
+  Professionals}}.
+\newblock John Wiley {\&} Sons Inc., Indianapolis, IN, USA, 1 edition, 2014.
+
+\bibitem{Bellazzi2008}
+Riccardo Bellazzi and Blaz Zupan.
+\newblock {Predictive data mining in clinical medicine: Current issues and
+  guidelines}, 2008.
+
+\bibitem{Bishop2006}
+Christopher~M Bishop.
+\newblock {\em {Pattern Recognition and Machine Learning}}.
+\newblock Springer, New York, NY, USA, 2006.
+
+\bibitem{Breiman2001b}
+L Breiman.
+\newblock {Random forests}.
+\newblock {\em Machine learning}, 45:5--32, 2001.
+
+\bibitem{Hastie2009}
+Trevor Hastie, Robert Tibshirani, and Jerome Friedman.
+\newblock {\em {The Elements of Statistical Learning}}.
+\newblock 2009.
+
+\bibitem{Hoens2013}
+Ryan Hoens and Nitesh~V. Chawla.
+\newblock {Imbalanced Datasets: From Sampling to Classifier}.
+\newblock In Haibo He and Yunqian Ma, editors, {\em Imbalanced Learning:
+  Foundations, Algorithms and Applications}, chapter~3, pages 44--107. Wiley,
+  Hoboken, New Jersey, USA, 2013.
+
+\bibitem{Installe2014}
+Arnaud~J.F. Install{\'{e}}, Thierry {Van Den Bosch}, Bart {De Moor}, and Dirk
+  Timmerman.
+\newblock {Clinical data miner: An electronic case report form system with
+  integrated data preprocessing and machine-learning libraries supporting
+  clinical diagnostic model research}.
+\newblock {\em Journal of Medical Internet Research}, 16(10):e28, 2014.
+
+\bibitem{Ripley1996}
+B.D. Ripley.
+\newblock {\em {Pattern Recognition and Neural Networks}}.
+\newblock Cambridge University Press, Cambridge, UK, 1996.
+
+\bibitem{Rosenblatt1957}
+F. Rosenblatt.
+\newblock {The Perceptron - A Perceiving and Recognizing Automaton}, 1957.
+
+\bibitem{Santhanam2015}
+T Santhanam and M~S Padmavathi.
+\newblock {Application of K-Means and Genetic Algorithms for Dimension
+  Reduction by Integrating SVM for Diabetes Diagnosis}.
+\newblock {\em Procedia - Procedia Computer Science}, 47:76--83, 2015.
+
+\bibitem{Skansi2018}
+Sandro Skansi.
+\newblock {\em {Introduction to Deep Learning: From Logical Calculus to
+  Artificial Intelligence}}.
+\newblock Springer, Cham, Switzerland, 2018.
+
+\bibitem{Vapnik1995}
+Vladimir~N. Vapnik.
+\newblock {\em {The Nature of Statistical Learning Theory}}.
+\newblock Springer, New York, NY, USA, 1995.
+
+\bibitem{Wu2018}
+Han Wu, Shengqi Yang, Zhangqin Huang, Jian He, and Xiaoyi Wang.
+\newblock {Type 2 diabetes mellitus prediction model based on data mining}.
+\newblock {\em Informatics in Medicine Unlocked}, 10(August 2017):100--107,
+  2018.
+
+\bibitem{Xu2017}
+Weifeng Xu, Jianxin Zhang, Qiang Zhang, and Xiaopeng Wei.
+\newblock {Risk prediction of type II diabetes based on random forest model}.
+\newblock In {\em Proceedings of the 3rd IEEE International Conference on
+  Advances in Electrical and Electronics, Information, Communication and
+  Bio-Informatics, AEEICB 2017}, pages 382--386. IEEE, 2017.
+
+\end{thebibliography}
